@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://47.93.243.204:8081/temp/ios/apps/runner.ipa</string>
+					<string>http://47.93.243.204:8081/temp/ios/apps/imbears.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -43,7 +43,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://47.93.243.204:8081/temp/ios/apps/runner-B45C04AB-9A68-4040-A1F6-56C9C0FC6289.ipa</string>
+					<string>http://47.93.243.204:8081/temp/ios/apps/runner-B45C04AB-9A68-4040-A1F6-56C9C0FC6289.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -124,7 +124,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://47.93.243.204:8081/temp/ios/apps/runner-0045715B-C24C-4AED-ABBE-75FDF7D386AF.ipa</string>
+					<string>http://47.93.243.204:8081/temp/ios/apps/runner-0045715B-C24C-4AED-ABBE-75FDF7D386AF.ipa</string>
 					<key>variantDescriptors</key>
 					<array/>
 					<key>variantIds</key>
@@ -143,7 +143,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://47.93.243.204:8081/temp/ios/apps/runner-C030FB89-2473-4D86-9407-84B1775917F1.ipa</string>
+					<string>http://47.93.243.204:8081/temp/ios/apps/runner-C030FB89-2473-4D86-9407-84B1775917F1.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
